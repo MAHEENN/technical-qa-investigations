@@ -1,0 +1,12 @@
+# Python generated files
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+
+# Environment variables and secrets
+.env
+
+# macOS metadata
+.DS_Store
